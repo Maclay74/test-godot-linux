@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test-godot-linux", "Test-godot-linux.csproj", "{4A4F8E25-A2EB-4ABC-9D2A-A295E8CE0728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "..\ClassLibrary1\ClassLibrary1.csproj", "{280CD264-C8AB-4134-8578-1790ABD94FF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		ExportDebug|Any CPU = ExportDebug|Any CPU
+		ExportRelease|Any CPU = ExportRelease|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A4F8E25-A2EB-4ABC-9D2A-A295E8CE0728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A4F8E25-A2EB-4ABC-9D2A-A295E8CE0728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A4F8E25-A2EB-4ABC-9D2A-A295E8CE0728}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{4A4F8E25-A2EB-4ABC-9D2A-A295E8CE0728}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{4A4F8E25-A2EB-4ABC-9D2A-A295E8CE0728}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{4A4F8E25-A2EB-4ABC-9D2A-A295E8CE0728}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+		{4A4F8E25-A2EB-4ABC-9D2A-A295E8CE0728}.Release|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{4A4F8E25-A2EB-4ABC-9D2A-A295E8CE0728}.Release|Any CPU.Build.0 = ExportRelease|Any CPU
+		{280CD264-C8AB-4134-8578-1790ABD94FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280CD264-C8AB-4134-8578-1790ABD94FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280CD264-C8AB-4134-8578-1790ABD94FF7}.ExportDebug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280CD264-C8AB-4134-8578-1790ABD94FF7}.ExportDebug|Any CPU.Build.0 = Debug|Any CPU
+		{280CD264-C8AB-4134-8578-1790ABD94FF7}.ExportRelease|Any CPU.ActiveCfg = Release|Any CPU
+		{280CD264-C8AB-4134-8578-1790ABD94FF7}.ExportRelease|Any CPU.Build.0 = Release|Any CPU
+		{280CD264-C8AB-4134-8578-1790ABD94FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280CD264-C8AB-4134-8578-1790ABD94FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA0E11ED-586D-49FA-A8A2-D5CEF0D3B7F8}
+	EndGlobalSection
+EndGlobal

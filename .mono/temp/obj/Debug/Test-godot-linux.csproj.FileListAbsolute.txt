@@ -1,0 +1,9 @@
+C:\Users\Mike\Desktop\test-godot-linux\.mono\temp\bin\Debug\Test-godot-linux.dll
+C:\Users\Mike\Desktop\test-godot-linux\.mono\temp\bin\Debug\Test-godot-linux.pdb
+C:\Users\Mike\Desktop\test-godot-linux\.mono\temp\obj\Debug\Test-godot-linux.csproj.AssemblyReference.cache
+C:\Users\Mike\Desktop\test-godot-linux\.mono\temp\obj\Debug\Test-godot-linux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Desktop\test-godot-linux\.mono\temp\obj\Debug\Test-godot-linux.AssemblyInfoInputs.cache
+C:\Users\Mike\Desktop\test-godot-linux\.mono\temp\obj\Debug\Test-godot-linux.AssemblyInfo.cs
+C:\Users\Mike\Desktop\test-godot-linux\.mono\temp\obj\Debug\Test-godot-linux.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\test-godot-linux\.mono\temp\obj\Debug\Test-godot-linux.dll
+C:\Users\Mike\Desktop\test-godot-linux\.mono\temp\obj\Debug\Test-godot-linux.pdb
